@@ -1,0 +1,55 @@
+/* -- Adding margin to whole page */
+body {
+    margin: 20px;
+    padding: 10px;
+    background-color: #f8f9fa; 
+}
+/* styling main header ---Element selector */
+.main-header {
+    color: #2a9d8f; /* Greenish blue */
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size:40px;
+}
+/* styling the footer -- ID Selector */
+#main-footer {
+    background-color: #264653;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+}
+/* styling the image url -- element selector */
+.styled-image {
+    border-radius: 10px;
+    margin: 20px auto;
+    border: 3px solid #e9c46a; /* Yellow border */
+    margin-top:25px;
+    border-left: 8px solid black;
+    border-bottom:4px solid #264653
+
+ }
+
+ 
+/* Margin, Padding & Borders for body */
+body {
+    margin: 10;
+    padding: 30;
+    background-color: peachpuff;
+}
+/* styling the paragraphs --- class Selector */
+.description {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    font-family: 'Arial', sans-serif;
+    text-align: left;
+    padding: 10px;
+    margin: 20px auto;
+    width: 64%;
+    border-left: 6px solid #e751b5;
+    background-color: #f2eeee;
+    border-radius: 2px;
+
+}
